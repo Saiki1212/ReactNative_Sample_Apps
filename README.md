@@ -7,21 +7,16 @@
    In this App I have learned about how to navigate between the Screens in you Application. 
    Basically there will be 3 Screens and there will be two buttons in every screen, so that you can go from Screen1 to Screen2 or Screen3 and same from Screen2 and Screen3....
 
- # 2. Password Generator-App : 
-   Generating Random Password ....
-   In this App there will be one screen in that we are going to give the length of the password the the app will auto generate the password on your 
-   specification(UpperCase, LowerCase, Number, Symbol and combination also) on to the screen....
-
- # 3. Rolling Dice-App : 
+ # 2. Rolling Dice-App : 
    There will be two dice and three buttons in the screen , we can click on the button to roll one die at a time and also we can click on another button both dice 
    roll at the same time.....
 
- # 4. Shopping-App : 
+ # 3. Shopping-App : 
    ### This the place where we have to use our all efforts and we have to take the reference from the apps which we have create before...
    In this there will be of Six screens where , we will learn about how to transfer the data from onr Screen to another Screen and **Deep understanding about 
    how the Navigation works and how the data is managing and transfering from one screen to another** and we also uses javaScript conditions......
 
- # 5. Tic-Tac-Toe -- App : 
+ # 4. Tic-Tac-Toe -- App : 
    ### Game Design.....
    #### I think you have already got the answer that what we have built in this 🥳🥳🥳
    A Simple Tic-Tac-Toe App , in this we have used a lot of JavScript Code to keep the conditions whether Player1 is the winner or Player2 is the winner, 
